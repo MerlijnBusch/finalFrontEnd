@@ -18,11 +18,11 @@
 
 @section('content')
 
-    <div class="row" style="padding: 20px">
-        <div class="col-md-6 col-12" style="padding: 5px">
-            <div class="card">
-                <div style="width:75%;">
-                    <canvas id="canvas"></canvas>
+    <div class="row" style="padding: 20px;">
+        <div class="col-lg-6 col-12" style="padding: 5px">
+            <div class="card" style="height: 515px">
+                <div style="width: 75%;">
+                <canvas id="canvas"></canvas>
                 </div>
                 <br>
                 <br>
@@ -35,8 +35,8 @@
             </div>
         </div>
 
-        <div class="col-md-6 col-12" style="padding: 5px">
-            <div class="card">
+        <div class="col-lg-6 col-12" style="padding: 5px">
+            <div class="card" style="height: 515px">
                 <div class="card-header-tab card-header">
                     <div class="card-header-title font-size-lg text-capitalize font-weight-normal">
                         <i class="header-icon lnr-lighter icon-gradient bg-amy-crisp"> </i>
@@ -44,6 +44,31 @@
                     </div>
                 </div>
 
+                <fieldset disabled>
+                    <div class="form-group">
+                        <input type="text" id="disabledTextInput" class="form-control" placeholder="Hoi">
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" id="disabledTextInput" class="form-control" placeholder="Alles">
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" id="disabledTextInput" class="form-control" placeholder="Goed">
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" id="disabledTextInput" class="form-control" placeholder="xD">
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" id="disabledTextInput" class="form-control" placeholder=":D">
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" id="disabledTextInput" class="form-control" placeholder=":D">
+                    </div>
+                </fieldset>
 
                 <div class="row">
                     <div class="col-9">
