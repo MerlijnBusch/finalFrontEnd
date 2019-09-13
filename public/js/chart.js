@@ -152,7 +152,7 @@ var config = {
     data: {
         labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
         datasets: [{
-            label: 'My First dataset',
+            label: 'People visitied site',
             backgroundColor: window.chartColors.red,
             borderColor: window.chartColors.red,
             data: [
@@ -166,7 +166,7 @@ var config = {
             ],
             fill: false,
         }, {
-            label: 'My Second dataset',
+            label: 'Bots visited people',
             fill: false,
             backgroundColor: window.chartColors.blue,
             borderColor: window.chartColors.blue,

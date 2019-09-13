@@ -23,11 +23,11 @@
     </div>
     <br>
     <br>
-    <button id="randomizeData">Randomize Data</button>
-    <button id="addDataset">Add Dataset</button>
-    <button id="removeDataset">Remove Dataset</button>
-    <button id="addData">Add Data</button>
-    <button id="removeData">Remove Data</button>
+    <button id="randomizeData" class="btn btn-primary">Randomize Data</button>
+    <button id="addDataset" class="btn btn-primary">Add Dataset</button>
+    <button id="removeDataset" class="btn btn-primary">Remove Dataset</button>
+    <button id="addData" class="btn btn-primary">Add Data</button>
+    <button id="removeData" class="btn btn-primary">Remove Data</button>
     <script src="{{asset('js/chart.js')}}"></script>
 
 
