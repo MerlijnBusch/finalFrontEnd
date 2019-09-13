@@ -185,7 +185,6 @@ var config = {
         responsive: true,
         title: {
             display: true,
-            text: 'Chart.js Line Chart'
         },
         tooltips: {
             mode: 'index',
