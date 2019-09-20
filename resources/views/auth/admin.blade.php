@@ -40,31 +40,39 @@
                         </div>
                     </div>
 
-                    <fieldset disabled>
-                        <div class="form-group">
-                            <input type="text" id="disabledTextInput" class="form-control" placeholder="Hoi">
-                        </div>
+                    <form>
+                        <fieldset disabled>
+                            <label for="disabledTextInput" style="display:none;">hoi</label>
+                            <div class="form-group">
+                                <input type="text" id="disabledTextInput" class="form-control" placeholder="Hoi">
+                            </div>
 
-                        <div class="form-group">
-                            <input type="text" id="disabledTextInput" class="form-control" placeholder="Alles">
-                        </div>
+                            <label for="disabledTextInput1" style="display:none;">alles</label>
+                            <div class="form-group">
+                                <input type="text" id="disabledTextInput1" class="form-control" placeholder="Alles">
+                            </div>
 
-                        <div class="form-group">
-                            <input type="text" id="disabledTextInput" class="form-control" placeholder="Goed">
-                        </div>
+                            <label for="disabledTextInput2" style="display:none;">goed</label>
+                            <div class="form-group">
+                                <input type="text" id="disabledTextInput2" class="form-control" placeholder="Goed">
+                            </div>
 
-                        <div class="form-group">
-                            <input type="text" id="disabledTextInput" class="form-control" placeholder="xD">
-                        </div>
+                            <label for="disabledTextInput3" style="display:none;">xD</label>
+                            <div class="form-group">
+                                <input type="text" id="disabledTextInput3" class="form-control" placeholder="xD">
+                            </div>
 
-                        <div class="form-group">
-                            <input type="text" id="disabledTextInput" class="form-control" placeholder=":D">
-                        </div>
+                            <label for="disabledTextInput4" style="display:none;">:D</label>
+                            <div class="form-group">
+                                <input type="text" id="disabledTextInput4" class="form-control" placeholder=":D">
+                            </div>
 
-                        <div class="form-group">
-                            <input type="text" id="disabledTextInput" class="form-control" placeholder=":D">
-                        </div>
-                    </fieldset>
+                            <label for="disabledTextInput5" style="display:none;">:D</label>
+                            <div class="form-group">
+                                <input type="text" id="disabledTextInput5" class="form-control" placeholder=":D">
+                            </div>
+                        </fieldset>
+                    </form>
 
                     <div class="row">
                         <div class="col-9">
