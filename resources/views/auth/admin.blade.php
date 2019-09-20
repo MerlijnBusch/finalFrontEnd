@@ -88,4 +88,43 @@
         </div>
     </div>
 
+    <div class="card">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Land</th>
+                <th scope="col">Gebied</th>
+                <th scope="col">Inwoners</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>Rusland</td>
+                <td>17,075,200</td>
+                <td>146,989,754</td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Frankrijk</td>
+                <td>640,679</td>
+                <td>64,979,548</td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Duitsland</td>
+                <td>357,114</td>
+                <td>82,114,224</td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Portugal</td>
+                <td>92,090</td>
+                <td>10,329,506</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
 @endsection
