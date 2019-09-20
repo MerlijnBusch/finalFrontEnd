@@ -68,8 +68,7 @@
                             </div>
 
                             <label for="disabledTextInput5" style="display:none;">:D</label>
-                            <div class="form-group">
-                                <input type="text" id="disabledTextInput5" class="form-control" placeholder=":D">
+6                                <input type="text" id="disabledTextInput5" class="form-control" placeholder=":D">
                             </div>
                         </fieldset>
                     </form>
