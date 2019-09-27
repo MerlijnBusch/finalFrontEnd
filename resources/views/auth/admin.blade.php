@@ -36,7 +36,7 @@
                     <div class="card-header-tab card-header">
                         <div class="card-header-title font-size-lg text-capitalize font-weight-normal">
                             <i class="header-icon lnr-lighter icon-gradient bg-amy-crisp"> </i>
-                            in komende text
+                            in coming text
                         </div>
                     </div>
 
@@ -84,7 +84,7 @@
                     <div class="d-block text-center card-footer">
                         <button class="btn-shadow btn-wide btn-pill btn btn-focus">
                             <span class="badge badge-dot badge-dot-lg badge-warning badge-pulse">5..</span>
-                            View Alle Berichten
+                            View Alle message
                         </button>
                     </div>
                 </div>
@@ -96,27 +96,27 @@
                 <thead>
                 <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Land</th>
-                    <th scope="col">Gebied</th>
-                    <th scope="col">Inwoners</th>
+                    <th scope="col">Country</th>
+                    <th scope="col">Area</th>
+                    <th scope="col">inhabitants</th>
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
                     <th scope="row">1</th>
-                    <td>Rusland</td>
+                    <td>Russia</td>
                     <td>17,075,200</td>
                     <td>146,989,754</td>
                 </tr>
                 <tr>
                     <th scope="row">2</th>
-                    <td>Frankrijk</td>
+                    <td>France</td>
                     <td>640,679</td>
                     <td>64,979,548</td>
                 </tr>
                 <tr>
                     <th scope="row">3</th>
-                    <td>Duitsland</td>
+                    <td>Germany</td>
                     <td>357,114</td>
                     <td>82,114,224</td>
                 </tr>

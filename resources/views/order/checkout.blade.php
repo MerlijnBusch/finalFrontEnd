@@ -28,7 +28,7 @@
                         <div class="col-6 col-md-4 col-lg-2"><img src="http://placehold.it/100x100" alt="..." class="img-responsive"/></div>
                         <div class="col-6 col-md-8 col-lg-10 d-none d-sm-block" style="padding-left: 40px">
                             <h4>Product 1</h4>
-                            <p>Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet.</p>
+                            <p>this product is really bad but good to</p>
                         </div>
                     </div>
                 </td>
