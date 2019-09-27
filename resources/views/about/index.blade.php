@@ -159,11 +159,10 @@
                 <!-- ./Team member -->
             </div>
             <h5 class="section-title h1">Why we make Wine!</h5>
-            <p class="text-justify">Ambitioni dedisse scripsisse iudicaretur. Cras
-                mattis iudicium purus sit amet fermentum. Donec sed odio operae, eu
-                vulputate felis rhoncus. Praeterea iter est quasdam res quas ex communi. At nos hinc posthac,
-                sitientis piros Afros. Petierunt uti sibi concilium totius
-                Galliae in diem certam indicere. Cras mattis iudicium purus sit amet fermentum.</p>
+            <p class="text-justify">We make wine cuz we love to make wine
+            and its so good to drink wine im not kidding its the best drinkanle
+            wine we make in oure team we drink test all day where almost
+            alcholics ands so tasty the wine omg is the best</p>
         </div>
     </section>
 
