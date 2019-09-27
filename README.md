@@ -1,6 +1,6 @@
 # Start document FrontEndKeuzeDeel
 
-Live Website: https://vps1.dss.cloud/merlijn/finalFrontEnd/public/
+Live Website: https://fro.merlijn.genericdevelopment.nl
 
 ## Webshopbox MV
 
